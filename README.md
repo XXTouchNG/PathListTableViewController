@@ -15,3 +15,11 @@ ctrl.allowSearch = YES;
 UINavigationController *navCtrl = [[UINavigationController alloc] initWithRootViewController:ctrl];
 [self presentViewController:navCtrl animated:YES completion:nil];
 ```
+
+## Screenshots
+
+<p float="left">
+  <img src="/IMG_0015.PNG" width="32%">
+  <img src="/IMG_0016.PNG" width="32%">
+  <img src="/IMG_0017.PNG" width="32%">
+</p>
